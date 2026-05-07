@@ -1,7 +1,7 @@
 # 📚 Biblioteca Project Work
 
-Sistema gestionale per una biblioteca sviluppato come project work.
-Il progetto consente la gestione di libri, utenti e operazioni di prestito tramite un'applicazione moderna composta da frontend e backend.
+Sistema creato per la gestione di una biblioteca sviluppato come project work.
+Il progetto consente la la visione di tutti i libri presenti da parte dell'utente, e la possibilità di accesso da parte dell'amministratore
 
 ## 🚀 Tecnologie utilizzate
 
