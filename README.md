@@ -56,8 +56,8 @@ Questo project work è stato realizzato con lo scopo di:
 ## 👨‍💻 Autori
 
 * Francesco Adrian Stoppa
-[Francesco Adrian Stoppa GitHub](https://github.com/FrancescoSt)
+[GitHub](https://github.com/FrancescoSt)
 * Giovanni Brescia
-[Giovanni Brescia GitHub](https://github.com/BresGio)
+[GitHub](https://github.com/BresGio)
 
 * Questo progetto è distribuito a scopo didattico.
