@@ -7,106 +7,42 @@ Il progetto consente la gestione di libri, utenti e operazioni di prestito trami
 
 ### Frontend
 
-* HTML5
-* CSS3
+* CSS
 * JavaScript
-* Framework/librerie frontend
+* React
 
 ### Backend
 
 * Node.js
-* Express.js
-* Database SQL
-
-## 📂 Struttura del progetto
-
-```bash
-Biblioteca-Project-Work/
-│
-├── biblioteca-app/
-│   └── backend/
-│
-├── la tana del lettore/
-│
-└── README.md
-```
+* Express
+* Database MongoDB
 
 ## ✨ Funzionalità principali
 
 * 📖 Visualizzazione catalogo libri
 * 🔍 Ricerca libri
-* 👤 Gestione utenti
-* 📚 Gestione prestiti e restituzioni
-* ➕ Inserimento nuovi libri
-* ✏️ Modifica ed eliminazione libri
+* 👤 Gestione utente amministratore
+* ➕ Inserimento nuovi libri da parte dell'utente amministratore
+* ✏️ Modifica ed eliminazione libri da parte dell'utente amministratore
 * 🔐 Sistema di autenticazione
-* 📊 Dashboard amministratore
-
-## ⚙️ Installazione
-
-### 1. Clona la repository
-
-```bash
-git clone https://github.com/FrancescoSt/Biblioteca-Project-Work.git
-```
-
-### 2. Entra nella cartella del progetto
-
-```bash
-cd Biblioteca-Project-Work
-```
-
-### 3. Installa le dipendenze backend
-
-```bash
-cd biblioteca-app/backend
-npm install
-```
-
-### 4. Avvia il server
-
-```bash
-npm start
-```
-
-## 🖥️ Avvio del frontend
-
-Apri la cartella del frontend oppure avvia il relativo server di sviluppo.
 
 ## 🗄️ Database
 
-Il progetto utilizza un database relazionale per la gestione di:
-
-* Libri
-* Utenti
-* Prestiti
-* Autori
-* Categorie
+Il progetto utilizza MongoDB per salvare i dati riguardanti i libri registrati
 
 ## 🔒 Autenticazione
 
-Il sistema prevede diversi livelli di accesso:
-
-* Utente
-* Amministratore
+Il sistema prevede il livello di accesso per l'amministratore autorizzato a modificare un qualunque libro, o eliminarlo o crearne di nuovi
 
 ## 📌 Obiettivi del progetto
 
 Questo project work è stato realizzato con lo scopo di:
 
 * Applicare concetti di sviluppo full stack
-* Gestire un database relazionale
 * Implementare API REST
 * Realizzare un'interfaccia moderna e intuitiva
 * Simulare un sistema reale di gestione biblioteca
 
-## 📸 Screenshot
-
-Aggiungi qui eventuali screenshot dell'applicazione.
-
-```md
-![Homepage](./screenshots/homepage.png)
-```
 
 ## 🛠️ Possibili miglioramenti futuri
 
@@ -117,12 +53,11 @@ Aggiungi qui eventuali screenshot dell'applicazione.
 * Deploy online
 * Responsive design migliorato
 
-## 👨‍💻 Autore
+## 👨‍💻 Autori
 
-Realizzato da Francesco Adrian St.
+* Francesco Adrian Stoppa
+[Francesco Adrian Stoppa GitHub](https://github.com/FrancescoSt)
+* Giovanni Brescia
+[Giovanni Brescia GitHub](https://github.com/BresGio)
 
-GitHub: [FrancescoSt GitHub](https://github.com/FrancescoSt?utm_source=chatgpt.com)
-
-## 📄 Licenza
-
-Questo progetto è distribuito a scopo didattico.
+* Questo progetto è distribuito a scopo didattico.
