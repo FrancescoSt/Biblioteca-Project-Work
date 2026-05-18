@@ -155,7 +155,7 @@ body {
   box-shadow: none !important;
   transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease, border-color .18s ease, color .18s ease;
 }
-#root .btn:hover { transform: translateY(-1px); box-shadow: 0 10px 22px rgba(37,33,29,.16) !important; }
+/* #root .btn:hover { transform: translateY(-1px); box-shadow: 0 10px 22px rgba(37,33,29,.16) !important; } */
 #root .btn:active { transform: translateY(0); }
 #root .btn-sm { padding: .46rem .85rem !important; font-size: .86rem !important; }
 
@@ -174,7 +174,7 @@ body {
 #root .btn-outline-primary {
   --bs-btn-color: var(--accent);
   --bs-btn-border-color: rgba(255,107,26,.55);
-  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-color: #ff6b1a !important;
   --bs-btn-hover-bg: var(--accent);
   --bs-btn-hover-border-color: var(--accent);
   background: rgba(255,255,255,.78) !important;
@@ -184,7 +184,7 @@ body {
   border-color: rgba(255,255,255,.38) !important;
   background: rgba(255,255,255,.08) !important;
 }
-#root section > .row:first-child .btn-outline-primary:hover { color: var(--ink) !important; background: #fff !important; }
+/* #root section > .row:first-child .btn-outline-primary:hover { color: var(--ink) !important; background: #fff !important; } */
 #root .btn-success {
   --bs-btn-color: #fff;
   --bs-btn-bg: #0f5936;
